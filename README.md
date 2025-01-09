@@ -4,8 +4,8 @@
 <ul>
   <li><b>Basic Operations:</b> Perform addition, subtraction, multiplication, and division.</li>
     <li><b>Clear (AC):</b> Clears the entire input field.</li>
-    <li><bDelete (DEL):</b> Deletes the last entered character.</li>
-    <li><bEvaluate (=):</b> Evaluates the entered expression.</li>
+    <li><b>Delete (DEL):</b> Deletes the last entered character.</li>
+    <li><b>Evaluate (=):</b> Evaluates the entered expression.</li>
 </ul>
 
 
